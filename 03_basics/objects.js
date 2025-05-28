@@ -1,4 +1,4 @@
-//singleton
+//singleton ---object creation part1
 // Object.create
 
 
@@ -6,7 +6,7 @@
 //object creation
 
 const mySym = Symbol("key")
-
+//object literals ---object creation type 2
 const Jsuser = {
     name : "shravani",
     age : 22,
